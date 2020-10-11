@@ -1,0 +1,9 @@
+ENDORSED_DIRS="C\:\\Users\\1345019668\\Desktop\\apache-tomcat-8.5.57/common/endorsed"
+JDK_HOME=C\:\\Users\\1345019668\\AppData\\Local\\MyEclipse Professional 2014\\binary\\com.sun.java.jdk7.win32.x86_64_1.7.0.u45
+JDK_INSTALLATION_NAME=com.sun.java.jdk7.win32.x86_64_1.7.0.u45
+LIBRARY_PATH="C\:\\Users\\1345019668\\AppData\\Local\\MyEclipse Professional 2014\\binary\\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\\bin;C\:\\Users\\1345019668\\Desktop\\apache-tomcat-8.5.57\\bin"
+SERVER_ENABLEMENT=true
+TOMCAT_BASE=C\:\\Users\\1345019668\\Desktop\\apache-tomcat-8.5.57
+TOMCAT_HOME=C\:\\Users\\1345019668\\Desktop\\apache-tomcat-8.5.57
+TOMCAT_TEMP=C\:\\Users\\1345019668\\Desktop\\apache-tomcat-8.5.57\\temp
+eclipse.preferences.version=1
